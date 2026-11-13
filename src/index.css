@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Hexagonal and Chevron geometric utilities for Lifecycle Pipeline */
+.hex-badge-clip {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.chevron-top-peak {
+  clip-path: polygon(0% 18px, 50% 0%, 100% 18px, 100% 100%, 0% 100%);
+}
+
+.chevron-arrow-point {
+  clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 14px), 50% 100%, 0% calc(100% - 14px));
+}

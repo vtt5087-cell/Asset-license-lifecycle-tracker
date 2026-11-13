@@ -1,0 +1,6 @@
+{
+  "name": "ALLT",
+  "description": "Enterprise IT Service Desk application to track hardware assignments, monitor software license expirations, track device health, and audit changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
